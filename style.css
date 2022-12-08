@@ -1,0 +1,13 @@
+.row {
+    margin: 2rem;
+}
+
+form {
+    width: 50%;
+    margin: 2% 25% 2% 25%;
+}
+
+#submit {
+    width: 5rem;
+    height: 3rem;
+}
